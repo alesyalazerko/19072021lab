@@ -79,4 +79,3 @@ rad = radians(deg)
 trig_expression = sin(rad) + cos(rad) + (tan(rad) ** 2)
 print(trig_expression)
 
-# меня попросили написать
